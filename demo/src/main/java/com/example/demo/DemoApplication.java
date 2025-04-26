@@ -12,7 +12,6 @@ public class DemoApplication {
 		System.out.println("to check pull and fetch");
 		
 		System.out.println("to check pull and fetch using git");
-		
 		System.out.println("check multiple file add /push");
 	}
 
