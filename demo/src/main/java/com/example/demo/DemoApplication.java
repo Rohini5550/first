@@ -19,6 +19,8 @@ public class DemoApplication {
 		  
 		  System.out.println("  ,,,,,,,,, master conflict to check ");
 		  
+		  System.out.println(" for merge from checkmerge branch--->to master ");
+		  
 		 
 	}
 
