@@ -13,6 +13,7 @@ public class DemoApplication {
 
 		System.out.println("to check pull and fetch using git");
 
+
 		
 		  
 		  System.out.println("  master conflict to check ");
