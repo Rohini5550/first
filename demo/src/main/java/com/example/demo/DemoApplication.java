@@ -17,6 +17,8 @@ public class DemoApplication {
 		System.out.println("  master conflict to check ");
 
 		System.out.println("  ,,,,,,,,, master conflict to check ");
+		
+		System.out.println(" merge changes in local branch");
 
 
 	}
